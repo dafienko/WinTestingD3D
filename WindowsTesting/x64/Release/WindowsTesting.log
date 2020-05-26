@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\dafie\source\repos\WindowsTesting\WindowsTesting\main.cpp(9,95): warning C4311: 'type cast': pointer truncation from 'HGDIOBJ' to 'LONG'
+C:\Users\dafie\source\repos\WindowsTesting\WindowsTesting\main.cpp(9,95): warning C4302: 'type cast': truncation from 'HGDIOBJ' to 'LONG'
+C:\Users\dafie\source\repos\WindowsTesting\WindowsTesting\main.cpp(9,11): warning C4244: 'initializing': conversion from 'ULONG_PTR' to 'int', possible loss of data
+C:\Users\dafie\source\repos\WindowsTesting\WindowsTesting\main.cpp(26,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\dafie\source\repos\WindowsTesting\x64\Release\WindowsTesting.exe : fatal error LNK1120: 1 unresolved externals
